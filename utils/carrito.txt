@@ -1,0 +1,1 @@
+[{"name":"carrito1","id":1,"date":"12/15/2021, 8:39:54 PM","productos":[{"nombre":"papa","codigo":"123","url":"imagen.com","precio":"15","cantidad":"3","descripcion":"tuberculo","tiempo":"12/15/2021, 8:40:13 PM","id":2}]},{"name":"carrito2","id":2,"date":"12/15/2021, 8:39:54 PM","productos":[]}]
